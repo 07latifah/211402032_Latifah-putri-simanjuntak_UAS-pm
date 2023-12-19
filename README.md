@@ -1,13 +1,20 @@
-# Implementasi UI Menggunakan Flutter untuk Memenuhi UAS Mata Kuliah Pemrograman Mobile 
+# Gambar Aplikasi Flutter Jika di "run"
 
-A new Flutter project.
+![A POS application](image/run.jpeg)
 
-![image](https://github.com/adebungaa/UASPemrogramanMobile_211402008/assets/89067579/1dab534a-26ba-4202-bf27-17c74f223b3b)
 
-## Getting Started
+# Cara Menjalankan Repository
 
-This project is a starting point for a Flutter application.
+1). Jalan kan "git clone https://github.com/07latifah/211402032_Latifah-putri-simanjuntak_UAS-pm.git" untuk mengclone direktori ke lokal
 
-A few resources:
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2). Masuk kedalam Code Editor (Visual Studio Code, dll)
+
+3). Run "flutter pub get"
+
+4). Jalankan Emulator
+
+5). Jalankan "flutter run" untuk menjalankan aplikasi Flutter di emulator.
+
+# Badge Developer Android
+![A POS application](image/ss.png)
+
